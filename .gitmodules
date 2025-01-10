@@ -1,0 +1,6 @@
+[submodule "git_ch1"]
+	path = git_ch1
+	url = https://github.com/MehmetEminGUL/A_RM_git_ch1
+[submodule "git_ch2"]
+	path = git_ch2
+	url = https://github.com/MehmetEminGUL/A_RM_git_ch2
